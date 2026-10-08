@@ -13,4 +13,4 @@ Collect stars, dodge asteroids and reach the target score before losing your 3 l
 LEFT / RIGHT arrows or A / D to move, P to pause, R to replay, M to switch the sound on or off, Q to quit.
 
 ## Authors
-AreebaziaLodhi and Annasofiakho (equal contribution).
+AreebaziaLodhi and Annasofiakho.
